@@ -120,6 +120,15 @@ body {
   line-height: 1;
   background-color: #fff;
 }
+
+.home{
+  background-image: url(img/telehealth_bg.jpg);
+  height: 100%; /* You must set a specified height */
+  background-position: top 0px left 0px; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
 .site {
   margin: 0 auto;
   max-width: 1200px;
