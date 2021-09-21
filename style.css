@@ -475,7 +475,9 @@ body {
   font-size: 1.1em;
   font-family: inherit;
   color: #666;
-  border-radius: 0px;
+  border-radius: 3px;
+  border-color: #666;
+  border-width:  2px;
   background: #eee;
   margin-bottom: 1px;
   font-weight: 300;
